@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Darul Arqam Islamic Institute
+  - Student Teacher
+- Lamido Zubairu Education Center
+  - IT Facilitator
+- PC Klinic
+  - Web designer
